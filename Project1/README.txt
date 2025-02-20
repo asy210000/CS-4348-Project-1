@@ -1,6 +1,4 @@
 READ ME: CS-4348 Project 1 - Simple Hardware Simulator
-Name: Austin Yatco
-NetID: 2021616010
 
 QUICK START:
 1. Adjust config settings in main.c as described in the CONFIG section.
